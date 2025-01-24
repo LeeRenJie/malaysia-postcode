@@ -15,6 +15,6 @@ pip install pandas requests
 ```
 
 ## Usage
-```python
+```bash
 python postcode_scraper.py
 ```
