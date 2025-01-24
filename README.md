@@ -1,4 +1,4 @@
-# MY Postcode Scraper 🇲🇾  
+# MY Postcode Scraper 🇲🇾 (Credit to this [repo](https://github.com/atqnp/postcode-malaysia)
 A Python script to scrape Malaysia postcode data from [pos.com.my](https://www.pos.com.my)'s API (00000-99999).
 
 ## Features ✨
